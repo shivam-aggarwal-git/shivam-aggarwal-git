@@ -1,7 +1,4 @@
-<!-- 🎨 Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivam-aggarwal-git/shivam-aggarwal-git/main/banner.png" width="850" alt="Shivam Aggarwal – AI × Product Strategist" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm Shivam Aggarwal</h1>
 <h3 align="center">AI-First Product Leader | Human-Centric SaaS Builder | FinTech & GenAI Strategist</h3>
