@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,55:1a0505,100:E50914&height=210&section=header&text=SHIVAM%20AGGARWAL&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=39&desc=AI%20TECHNICAL%20PRODUCT%20MANAGER%20%7C%20LLM%20%26%20API%20INTEGRATIONS&descSize=16&descAlignY=61" alt="Shivam Aggarwal — AI Technical Product Manager" width="100%" />
+# 🔴 SHIVAM AGGARWAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&duration=3200&pause=900&color=E50914&center=true&vCenter=true&width=850&lines=From+product+strategy+to+production;Building+AI-powered+experiences;Connecting+LLMs%2C+APIs+and+enterprise+platforms;Explore.+Build.+Automate." alt="Animated introduction" />
+### AI Technical Product Manager | LLM & API Integrations | SaaS & FinTech
 
-<br/>
+**FROM PRODUCT STRATEGY TO PRODUCTION**
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shivam-aggarwal-git.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-aggarwal/)
-[![Email](https://img.shields.io/badge/CONTACT-181818?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aggarwalshivam1991@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam-aggarwal-git)
+*Building AI-powered experiences · Connecting LLMs, APIs and enterprise platforms*
+
+[Portfolio](https://shivam-aggarwal-git.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/shivam-aggarwal/) · [Email](mailto:aggarwalshivam1991@gmail.com) · [GitHub](https://github.com/shivam-aggarwal-git)
 
 **Pune, India · Open to relocation · Pune preferred**
 
@@ -46,13 +45,13 @@ I enjoy translating ambiguous problems into clear roadmaps, shipping practical s
 ## 🍿 TOP PICKS · What I Work With
 
 **AI & Generative AI**  
-![LLMs](https://img.shields.io/badge/LLMs-E50914?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-222222?style=flat-square) ![Conversational AI](https://img.shields.io/badge/Conversational_AI-222222?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-222222?style=flat-square) ![AI Automation](https://img.shields.io/badge/AI_Workflow_Automation-222222?style=flat-square)
+`LLMs` · `RAG` · `Conversational AI` · `Prompt Engineering` · `AI Workflow Automation`
 
 **Product & Delivery**  
-![Strategy](https://img.shields.io/badge/Product_Strategy-E50914?style=flat-square) ![Roadmaps](https://img.shields.io/badge/Roadmapping-222222?style=flat-square) ![Agile](https://img.shields.io/badge/Agile%2FScrum-222222?style=flat-square) ![Stakeholders](https://img.shields.io/badge/Stakeholder_Management-222222?style=flat-square) ![Lifecycle](https://img.shields.io/badge/Product_Lifecycle-222222?style=flat-square)
+`Product Strategy` · `Roadmapping` · `Agile/Scrum` · `Stakeholder Management` · `Product Lifecycle`
 
 **Platforms & Integrations**  
-![APIs](https://img.shields.io/badge/REST_APIs-E50914?style=flat-square) ![SaaS](https://img.shields.io/badge/SaaS_Platforms-222222?style=flat-square) ![Data](https://img.shields.io/badge/Data_Integrations-222222?style=flat-square) ![AEM](https://img.shields.io/badge/Adobe_Experience_Manager-222222?style=flat-square) ![Cloud](https://img.shields.io/badge/Cloud_Technologies-222222?style=flat-square)
+`REST APIs` · `SaaS Platforms` · `Data Integrations` · `Adobe Experience Manager` · `Cloud Technologies`
 
 ## 🎞️ FEATURED PROJECTS · Beyond the Day Job
 
@@ -73,14 +72,9 @@ I enjoy translating ambiguous problems into clear roadmaps, shipping practical s
 
 **Education:** MBA, Information Technology — Symbiosis International University (2018) · B.Tech., Computer Science — Uttarakhand Technical University (2015)
 
-## 📊 BEHIND THE SCENES · GitHub Activity
+## 📊 BEHIND THE SCENES · GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivam-aggarwal-git&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E50914&icon_color=E50914&text_color=FFFFFF" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-aggarwal-git&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E50914&text_color=FFFFFF" alt="Most-used GitHub languages" height="165" />
-
-</div>
+Explore my [GitHub repositories](https://github.com/shivam-aggarwal-git?tab=repositories) for projects and experiments. Live statistics are intentionally linked rather than embedded to avoid unreliable third-party image services.
 
 ---
 
@@ -90,7 +84,7 @@ I enjoy translating ambiguous problems into clear roadmaps, shipping practical s
 
 **Let's connect around AI products, platform integrations, and building things that matter.**
 
-[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-E50914?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-aggarwal/)
+[**CONNECT ON LINKEDIN**](https://www.linkedin.com/in/shivam-aggarwal/)
 
 <sub>SHIVAM AGGARWAL · PRODUCT × ENGINEERING × AI</sub>
 
